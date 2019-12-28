@@ -1,6 +1,6 @@
 # T32ino
 
-TicTacToe for Arduino
+TicTacToe to Arduino
 
 Work developed in 2013 where is recreated the tic-tac-toe for arduino, simulated project with simulino.
 
